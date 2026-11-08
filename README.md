@@ -1,5 +1,5 @@
 # Tales of Eternia Remastered - Playable Cress Albane MOD
-WARNING: Save files modified by this mod cannot currently be reverted to use Chat(the playable character). Back up your save files before installation.
+WARNING: Save files modified by this mod cannot currently be reverted to use Chat (the playable character). Back up your save files before installation.
 ## Overview
 
 This mod replaces Chat's character slot with Cress Albane from Tales of Phantasia, adding Cress's artes, character graphics, and voice lines.
@@ -22,7 +22,7 @@ After installing the mod, open the regular in-game menu.
 
 ## Important Warnings
 
-- **Only install this mod if you accept that Chat(the playable character) will no longer be playable.**
+- **Only install this mod if you accept that Chat (the playable character) will no longer be playable.**
 - Save files created after installing this mod have not been verified to properly restore Cress back to Chat simply by removing the mod. Doing so will likely cause bugs.
 - **There is currently no function to revert Cress back to Chat. Keep the mod installed when playing save files that have progressed with Cress.**
 - The mod includes logic intended to prevent duplicate party members or unintended overwriting during Chat's story-related recruitment event. However, this behavior has not yet been verified by actually playing through that event.
